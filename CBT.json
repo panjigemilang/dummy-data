@@ -1,0 +1,7 @@
+{
+  "PercentageTripSettlement": 70,
+  "PercentageTripNotSettlement": 30,
+  "TotalTrip": 100,
+  "TotalTripSettlement": 70,
+  "TotalTripNotSettlement": 30
+}
