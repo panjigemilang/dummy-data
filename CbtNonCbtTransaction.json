@@ -9,8 +9,8 @@
     "NoInfoNotSettlement": 15
   },
   "NonCBT": {
-    "TotalTrip": 100,
-    "TotalTripSettlement": 70,
-    "TotalTripNotSettlement": 30
+    "TotalTrip": 300,
+    "TotalTripSettlement": 180,
+    "TotalTripNotSettlement": 120
   }
 }
