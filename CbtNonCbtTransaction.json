@@ -1,0 +1,14 @@
+{
+  "CBT": {
+    "TotalTripSettlement": 70,
+    "TotalTripNotSettlement": 30,
+    "SettlementBook": 30,
+    "NoInfoSettlement": 40,
+    "NotSettlementBook": 15,
+    "NoInfoNotSettlement": 15
+  },
+  "NonCBT": {
+    "TotalTripSettlement": 70,
+    "TotalTripNotSettlement": 30
+  }
+}
