@@ -1,0 +1,17 @@
+[
+  {
+    "TravelCosts": 1000,
+    "TotalPersons": 15200,
+    "TotalTrip": 200000
+  },
+  {
+    "TravelCosts": 800,
+    "TotalPersons": 32500,
+    "TotalTrip": 263000
+  },
+  {
+    "TravelCosts": 900,
+    "TotalPersons": 22500,
+    "TotalTrip": 164000
+  }
+]
