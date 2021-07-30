@@ -1,0 +1,32 @@
+{
+  "CBT": {
+    "Akomodasi": 245,
+    "TransportasiUdara": 0,
+    "Kereta": 15,
+    "Kapal": 5,
+    "Feri": 22,
+    "BoatCharter": 21,
+    "TransportPribadi": 17,
+    "PenggantiTransport": 17,
+    "Laundry": 16,
+    "UangHarian": 13,
+    "KompensasiArea": 0,
+    "Miscellaneous": 0,
+    "Others": 530
+  },
+  "NonCBT": {
+    "Akomodasi": 545,
+    "TransportasiUdara": 0,
+    "Kereta": 12,
+    "Kapal": 15,
+    "Feri": 16,
+    "BoatCharter": 17,
+    "TransportPribadi": 20,
+    "PenggantiTransport": 10,
+    "Laundry": 17,
+    "UangHarian": 9,
+    "KompensasiArea": 0,
+    "Miscellaneous": 0,
+    "Others": 400
+  }
+}
