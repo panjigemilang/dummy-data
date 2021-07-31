@@ -12,7 +12,8 @@
     "UangHarian": 13,
     "KompensasiArea": 0,
     "Miscellaneous": 0,
-    "Others": 530
+    "Others": 530,
+    "Total": 898
   },
   "NonCBT": {
     "Akomodasi": 545,
@@ -27,6 +28,7 @@
     "UangHarian": 9,
     "KompensasiArea": 0,
     "Miscellaneous": 0,
-    "Others": 400
+    "Others": 400,
+    "Total": 1061
   }
 }
