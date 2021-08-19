@@ -1,6 +1,674 @@
- {
-    "TravelCosts": [1000, 800, 900],
-    "TotalPersons": [15200, 32500, 22500],
-    "TotalTrip": [200000, 263000, 164000],
-    "DataLength": 3
+{
+  "All": {
+    "TravelCost": [
+      {
+        "Seq": 1,
+        "Month": "Jan",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 2,
+        "Month": "Feb",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 3,
+        "Month": "Mar",
+        "Year": "2021",
+        "Total": 2766500
+      },
+      {
+        "Seq": 4,
+        "Month": "Apr",
+        "Year": "2021",
+        "Total": 2685804
+      },
+      {
+        "Seq": 5,
+        "Month": "May",
+        "Year": "2021",
+        "Total": 1919500
+      },
+      {
+        "Seq": 6,
+        "Month": "Jun",
+        "Year": "2021",
+        "Total": 6047021
+      },
+      {
+        "Seq": 7,
+        "Month": "Jul",
+        "Year": "2021",
+        "Total": 19338126
+      },
+      {
+        "Seq": 8,
+        "Month": "Aug",
+        "Year": "2021",
+        "Total": 6414250
+      },
+      {
+        "Seq": 9,
+        "Month": "Sep",
+        "Year": "2021",
+        "Total": 352000
+      },
+      {
+        "Seq": 10,
+        "Month": "Oct",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 11,
+        "Month": "Nov",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 12,
+        "Month": "Dec",
+        "Year": "2021",
+        "Total": 0
+      }
+    ],
+    "TotalPersons": [
+      {
+        "Seq": 1,
+        "Month": "Jan",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 2,
+        "Month": "Feb",
+        "Year": "2021",
+        "Total": 2
+      },
+      {
+        "Seq": 3,
+        "Month": "Mar",
+        "Year": "2021",
+        "Total": 2
+      },
+      {
+        "Seq": 4,
+        "Month": "Apr",
+        "Year": "2021",
+        "Total": 24
+      },
+      {
+        "Seq": 5,
+        "Month": "May",
+        "Year": "2021",
+        "Total": 21
+      },
+      {
+        "Seq": 6,
+        "Month": "Jun",
+        "Year": "2021",
+        "Total": 18
+      },
+      {
+        "Seq": 7,
+        "Month": "Jul",
+        "Year": "2021",
+        "Total": 29
+      },
+      {
+        "Seq": 8,
+        "Month": "Aug",
+        "Year": "2021",
+        "Total": 6
+      },
+      {
+        "Seq": 9,
+        "Month": "Sep",
+        "Year": "2021",
+        "Total": 3
+      },
+      {
+        "Seq": 10,
+        "Month": "Oct",
+        "Year": "2021",
+        "Total": 5
+      },
+      {
+        "Seq": 11,
+        "Month": "Nov",
+        "Year": "2021",
+        "Total": 4
+      },
+      {
+        "Seq": 12,
+        "Month": "Dec",
+        "Year": "2021",
+        "Total": 1
+      }
+    ],
+    "TotalTrip": [
+      {
+        "Seq": 1,
+        "Month": "Jan",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 2,
+        "Month": "Feb",
+        "Year": "2021",
+        "Total": 2
+      },
+      {
+        "Seq": 3,
+        "Month": "Mar",
+        "Year": "2021",
+        "Total": 2
+      },
+      {
+        "Seq": 4,
+        "Month": "Apr",
+        "Year": "2021",
+        "Total": 24
+      },
+      {
+        "Seq": 5,
+        "Month": "May",
+        "Year": "2021",
+        "Total": 21
+      },
+      {
+        "Seq": 6,
+        "Month": "Jun",
+        "Year": "2021",
+        "Total": 17
+      },
+      {
+        "Seq": 7,
+        "Month": "Jul",
+        "Year": "2021",
+        "Total": 29
+      },
+      {
+        "Seq": 8,
+        "Month": "Aug",
+        "Year": "2021",
+        "Total": 6
+      },
+      {
+        "Seq": 9,
+        "Month": "Sep",
+        "Year": "2021",
+        "Total": 3
+      },
+      {
+        "Seq": 10,
+        "Month": "Oct",
+        "Year": "2021",
+        "Total": 4
+      },
+      {
+        "Seq": 11,
+        "Month": "Nov",
+        "Year": "2021",
+        "Total": 4
+      },
+      {
+        "Seq": 12,
+        "Month": "Dec",
+        "Year": "2021",
+        "Total": 1
+      }
+    ]
+  },
+  "Domestic": {
+    "TravelCost": [
+      {
+        "Seq": 1,
+        "Month": "Jan",
+        "Year": "2021",
+        "Total": 2766500
+      },
+      {
+        "Seq": 2,
+        "Month": "Feb",
+        "Year": "2021",
+        "Total": 2685804
+      },
+      {
+        "Seq": 3,
+        "Month": "Mar",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 4,
+        "Month": "Apr",
+        "Year": "2021",
+        "Total": 1919500
+      },
+      {
+        "Seq": 5,
+        "Month": "May",
+        "Year": "2021",
+        "Total": 6047021
+      },
+      {
+        "Seq": 6,
+        "Month": "Jun",
+        "Year": "2021",
+        "Total": 19338126
+      },
+      {
+        "Seq": 7,
+        "Month": "Jul",
+        "Year": "2021",
+        "Total": 6414250
+      },
+      {
+        "Seq": 8,
+        "Month": "Aug",
+        "Year": "2021",
+        "Total": 352000
+      },
+      {
+        "Seq": 9,
+        "Month": "Sep",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 10,
+        "Month": "Oct",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 11,
+        "Month": "Nov",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 12,
+        "Month": "Dec",
+        "Year": "2021",
+        "Total": 352000
+      }
+    ],
+    "TotalPersons": [
+      {
+        "Seq": 1,
+        "Month": "Jan",
+        "Year": "2021",
+        "Total": 4
+      },
+      {
+        "Seq": 2,
+        "Month": "Feb",
+        "Year": "2021",
+        "Total": 5
+      },
+      {
+        "Seq": 3,
+        "Month": "Mar",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 4,
+        "Month": "Apr",
+        "Year": "2021",
+        "Total": 44
+      },
+      {
+        "Seq": 5,
+        "Month": "May",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 6,
+        "Month": "Jun",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 7,
+        "Month": "Jul",
+        "Year": "2021",
+        "Total": 29
+      },
+      {
+        "Seq": 8,
+        "Month": "Aug",
+        "Year": "2021",
+        "Total": 16
+      },
+      {
+        "Seq": 9,
+        "Month": "Sep",
+        "Year": "2021",
+        "Total": 13
+      },
+      {
+        "Seq": 10,
+        "Month": "Oct",
+        "Year": "2021",
+        "Total": 15
+      },
+      {
+        "Seq": 11,
+        "Month": "Nov",
+        "Year": "2021",
+        "Total": 14
+      },
+      {
+        "Seq": 12,
+        "Month": "Dec",
+        "Year": "2021",
+        "Total": 1
+      }
+    ],
+    "TotalTrip": [
+      {
+        "Seq": 1,
+        "Month": "Jan",
+        "Year": "2021",
+        "Total": 5
+      },
+      {
+        "Seq": 2,
+        "Month": "Feb",
+        "Year": "2021",
+        "Total": 2
+      },
+      {
+        "Seq": 3,
+        "Month": "Mar",
+        "Year": "2021",
+        "Total": 2
+      },
+      {
+        "Seq": 4,
+        "Month": "Apr",
+        "Year": "2021",
+        "Total": 44
+      },
+      {
+        "Seq": 5,
+        "Month": "May",
+        "Year": "2021",
+        "Total": 21
+      },
+      {
+        "Seq": 6,
+        "Month": "Jun",
+        "Year": "2021",
+        "Total": 27
+      },
+      {
+        "Seq": 7,
+        "Month": "Jul",
+        "Year": "2021",
+        "Total": 29
+      },
+      {
+        "Seq": 8,
+        "Month": "Aug",
+        "Year": "2021",
+        "Total": 5
+      },
+      {
+        "Seq": 9,
+        "Month": "Sep",
+        "Year": "2021",
+        "Total": 5
+      },
+      {
+        "Seq": 10,
+        "Month": "Oct",
+        "Year": "2021",
+        "Total": 4
+      },
+      {
+        "Seq": 11,
+        "Month": "Nov",
+        "Year": "2021",
+        "Total": 8
+      },
+      {
+        "Seq": 12,
+        "Month": "Dec",
+        "Year": "2021",
+        "Total": 6
+      }
+    ]
+  },
+  "International": {
+    "TravelCost": [
+      {
+        "Seq": 1,
+        "Month": "Jan",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 2,
+        "Month": "Feb",
+        "Year": "2021",
+        "Total": 2766500
+      },
+      {
+        "Seq": 3,
+        "Month": "Mar",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 4,
+        "Month": "Apr",
+        "Year": "2021",
+        "Total": 2685804
+      },
+      {
+        "Seq": 5,
+        "Month": "May",
+        "Year": "2021",
+        "Total": 1919500
+      },
+      {
+        "Seq": 6,
+        "Month": "Jun",
+        "Year": "2021",
+        "Total": 6047021
+      },
+      {
+        "Seq": 7,
+        "Month": "Jul",
+        "Year": "2021",
+        "Total": 19338126
+      },
+      {
+        "Seq": 8,
+        "Month": "Aug",
+        "Year": "2021",
+        "Total": 6414250
+      },
+      {
+        "Seq": 9,
+        "Month": "Sep",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 10,
+        "Month": "Oct",
+        "Year": "2021",
+        "Total": 352000
+      },
+      {
+        "Seq": 11,
+        "Month": "Nov",
+        "Year": "2021",
+        "Total": 352000
+      },
+      {
+        "Seq": 12,
+        "Month": "Dec",
+        "Year": "2021",
+        "Total": 0
+      }
+    ],
+    "TotalPersons": [
+      {
+        "Seq": 1,
+        "Month": "Jan",
+        "Year": "2021",
+        "Total": 14
+      },
+      {
+        "Seq": 2,
+        "Month": "Feb",
+        "Year": "2021",
+        "Total": 15
+      },
+      {
+        "Seq": 3,
+        "Month": "Mar",
+        "Year": "2021",
+        "Total": 10
+      },
+      {
+        "Seq": 4,
+        "Month": "Apr",
+        "Year": "2021",
+        "Total": 44
+      },
+      {
+        "Seq": 5,
+        "Month": "May",
+        "Year": "2021",
+        "Total": 10
+      },
+      {
+        "Seq": 6,
+        "Month": "Jun",
+        "Year": "2021",
+        "Total": 10
+      },
+      {
+        "Seq": 7,
+        "Month": "Jul",
+        "Year": "2021",
+        "Total": 29
+      },
+      {
+        "Seq": 8,
+        "Month": "Aug",
+        "Year": "2021",
+        "Total": 16
+      },
+      {
+        "Seq": 9,
+        "Month": "Sep",
+        "Year": "2021",
+        "Total": 13
+      },
+      {
+        "Seq": 10,
+        "Month": "Oct",
+        "Year": "2021",
+        "Total": 15
+      },
+      {
+        "Seq": 11,
+        "Month": "Nov",
+        "Year": "2021",
+        "Total": 14
+      },
+      {
+        "Seq": 12,
+        "Month": "Dec",
+        "Year": "2021",
+        "Total": 11
+      }
+    ],
+    "TotalTrip": [
+      {
+        "Seq": 1,
+        "Month": "Jan",
+        "Year": "2021",
+        "Total": 15
+      },
+      {
+        "Seq": 2,
+        "Month": "Feb",
+        "Year": "2021",
+        "Total": 12
+      },
+      {
+        "Seq": 3,
+        "Month": "Mar",
+        "Year": "2021",
+        "Total": 12
+      },
+      {
+        "Seq": 4,
+        "Month": "Apr",
+        "Year": "2021",
+        "Total": 44
+      },
+      {
+        "Seq": 5,
+        "Month": "May",
+        "Year": "2021",
+        "Total": 21
+      },
+      {
+        "Seq": 6,
+        "Month": "Jun",
+        "Year": "2021",
+        "Total": 27
+      },
+      {
+        "Seq": 7,
+        "Month": "Jul",
+        "Year": "2021",
+        "Total": 29
+      },
+      {
+        "Seq": 8,
+        "Month": "Aug",
+        "Year": "2021",
+        "Total": 15
+      },
+      {
+        "Seq": 9,
+        "Month": "Sep",
+        "Year": "2021",
+        "Total": 15
+      },
+      {
+        "Seq": 10,
+        "Month": "Oct",
+        "Year": "2021",
+        "Total": 14
+      },
+      {
+        "Seq": 11,
+        "Month": "Nov",
+        "Year": "2021",
+        "Total": 18
+      },
+      {
+        "Seq": 12,
+        "Month": "Dec",
+        "Year": "2021",
+        "Total": 9
+      }
+    ]
   }
+}
