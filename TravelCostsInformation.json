@@ -1,6 +1,6 @@
 {
   "All": {
-    "TravelCost": [
+    "TravelCostUsd": [
       {
         "Seq": 1,
         "Month": "Jan",
@@ -60,6 +60,80 @@
         "Month": "Oct",
         "Year": "2021",
         "Total": 0
+      },
+      {
+        "Seq": 11,
+        "Month": "Nov",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 12,
+        "Month": "Dec",
+        "Year": "2021",
+        "Total": 0
+      }
+    ],
+    "TravelCostIdr": [
+      {
+        "Seq": 1,
+        "Month": "Jan",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 2,
+        "Month": "Feb",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 3,
+        "Month": "Mar",
+        "Year": "2021",
+        "Total": 0
+      },
+      {
+        "Seq": 4,
+        "Month": "Apr",
+        "Year": "2021",
+        "Total": 352000
+      },
+      {
+        "Seq": 5,
+        "Month": "May",
+        "Year": "2021",
+        "Total": 6414250
+      },
+      {
+        "Seq": 6,
+        "Month": "Jun",
+        "Year": "2021",
+        "Total": 19338126
+      },
+      {
+        "Seq": 7,
+        "Month": "Jul",
+        "Year": "2021",
+        "Total": 6047021
+      },
+      {
+        "Seq": 8,
+        "Month": "Aug",
+        "Year": "2021",
+        "Total": 1919500
+      },
+      {
+        "Seq": 9,
+        "Month": "Sep",
+        "Year": "2021",
+        "Total": 2685804
+      },
+      {
+        "Seq": 10,
+        "Month": "Oct",
+        "Year": "2021",
+        "Total": 2766500
       },
       {
         "Seq": 11,
